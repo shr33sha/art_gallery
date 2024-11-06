@@ -12,3 +12,6 @@ __pycache__/
 
 # Virtual environment
 art/
+
+# Ignore embedded Git repository
+artpro/
