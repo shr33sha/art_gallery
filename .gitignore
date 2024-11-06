@@ -1,0 +1,14 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Django settings and secret files
+*.env
+*.local
+*.db
+
+# Django migrations
+*/migrations/
+
+# Virtual environment
+art/
